@@ -13,7 +13,7 @@ Xintian Gu ([gxtTim](https://github.com/gxtTim)), Yingkai Tan ([yt549](https://g
 
 An Android application for helping users to locate the best in-door Wi-Fi source nearby.It requires the user to take a trip around the tested area. Best Wi-Fi names and associated heatmap will then be provided after the trip. Overall, this application is able to collect, save and visualize Wi-Fi signals in heatmap format.
 
-# Environment
+# Environment 
 
 - Programming Language: Java, XML
 - Vision Control: GitHub
@@ -21,7 +21,7 @@ An Android application for helping users to locate the best in-door Wi-Fi source
 - Device: Motorola moto e4 plus with Android system
 - Package: Maps SDK for Android, Google Maps Android Heatmap Utility, Place API, etc.
 
-# Major Deliverables
+# Major Deliverables 
 
 The following tests was runned around Cornell University.
 
